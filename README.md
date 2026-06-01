@@ -1,4 +1,4 @@
-# JDBC & H2 Database Integration (Homework 8)
+# JDBC & H2 Database Integration (Homework 9)
 
 A core Java application demonstrating low-level integration with the **H2 file-based Database** using raw **JDBC** APIs. The project provisions database schemas, populates mock data, and executes several complex analytical SQL queries mapped to dedicated Java Data Transfer Objects (DTOs).
 
